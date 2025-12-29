@@ -1,0 +1,93 @@
+<!DOCTYPE html> 
+
+<html lang="en"> 
+
+<head> 
+
+<meta charset="UTF-8" /> 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+
+<title>My Resume</title> 
+
+<link rel="stylesheet" href="style.css" /> 
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
+
+</head> 
+
+ <body> 
+
+<header> 
+
+<h1>L Lohith</h1> 
+
+<p>Web Developer | Tech enthusiast</p> 
+
+<nav> 
+
+<a href="index.html">Home</a> 
+
+<a href="biodata.html">About</a> 
+
+</nav> 
+
+</header> 
+
+ 
+
+ 
+
+<section class="resume"> 
+
+<h2>Education</h2> 
+
+<ul> 
+
+<li>Bachelor of Computer Science – 2023-2027</li> 
+
+<li>Pre-University College - 2022</li> 
+
+</ul> 
+
+ 
+<h2>Skills</h2> 
+
+<ul> 
+
+<li>HTML, CSS, JavaScript</li> 
+
+<li> MySQL</li> 
+
+<li> Bootstrap</li> 
+
+</ul> 
+
+ <h2>Projects</h2> 
+
+<ul> 
+
+<li>Hotel booking Management System</li> 
+
+<li>Portfolio Website</li> 
+
+</ul> 
+</section> 
+
+<footer> 
+
+<p>&copy; 2025 Pavan J T | <a href="#">LinkedIn</a></p> 
+
+</footer> 
+
+ 
+
+ 
+
+<script src="script.js"></script> 
+
+</body> 
+
+</html> 
+
+ 
